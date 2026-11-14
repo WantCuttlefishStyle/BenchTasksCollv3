@@ -10,5 +10,3 @@ if __name__ == '__main__':
         print('Evaluation passed')
     else:
         print('Evaluation failed')
-    else:
-        print('Evaluation failed')
